@@ -1,0 +1,24 @@
+{
+  "name": "javascript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomisaurus/javascript-starter.git"
+  },
+  "author": "Noman ul Haq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomisaurus/javascript-starter/issues"
+  },
+  "homepage": "https://github.com/nomisaurus/javascript-starter#readme"
+}
